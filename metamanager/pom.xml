@@ -5,9 +5,9 @@
 <modelVersion>4.0.0</modelVersion>
   <groupId>org.newcashel</groupId>
   <artifactId>metamanager</artifactId>
-  <version>0.9.1</version>
+  <version>0.7</version>
   <name>NewCashel Meta Manager</name>
-  <description>Meta management processing and query generation for Elasticsearch</description>
+  <description>Meta management processing for Elasticsearch</description>
 
 	<build>
 		<plugins>
