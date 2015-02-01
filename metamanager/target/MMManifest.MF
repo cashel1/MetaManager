@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: metamanager
+Implementation-Version: 0.8.0
+Implementation-Vendor-Id: org.newcashel
+Build-Jdk: 1.8.0_31-b13
+Built-By: NewCashel Development
+Created-By: Apache Maven
+Main-Class: org.newcashel.metamanager.MetaManager
+Archiver-Version: Plexus Archiver
+Class-Path: .
+
+
