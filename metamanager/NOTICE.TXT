@@ -1,0 +1,5 @@
+MetaManager
+Copyright 2013-2015 NewCashel
+This product includes software developed by The Apache Software Foundation (http://www.apache.org/).
+
+Reference THIRDPARTY.TXT for additional details.
