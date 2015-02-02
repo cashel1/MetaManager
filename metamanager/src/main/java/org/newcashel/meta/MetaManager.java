@@ -111,7 +111,7 @@ public class MetaManager {
 	public static Client getClient() {return client;}
 	public static LaunchParms getLaunchParm() {return currentlaunchParm;}
 	
-	private static boolean loadMeta() {
+	public static boolean loadMeta() {
 
 		try {
 			
